@@ -7,4 +7,4 @@ The code and the circuit diagram can be found in this repository.
 
 The pictures of the fully assembled car can be found under **Photos**
 
-A small timelapse video showing the progress from start to finish can be watched using this link: [Video]([https://www.google.com](https://www.youtube.com/watch?v=5Ym_Qg22HTw&ab_channel=GeorgesElkassouf)https://www.youtube.com/watch?v=5Ym_Qg22HTw&ab_channel=GeorgesElkassouf)
+A small timelapse video showing the progress from start to finish can be watched using this link: [Video](https://www.youtube.com/watch?v=5Ym_Qg22HTw&ab_channel=GeorgesElkassouf)

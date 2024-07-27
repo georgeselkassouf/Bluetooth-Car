@@ -1,10 +1,10 @@
 char t;
  
 void setup() {
-pinMode(13,OUTPUT);   //left motors forward
-pinMode(12,OUTPUT);   //left motors reverse
-pinMode(11,OUTPUT);   //right motors forward
-pinMode(10,OUTPUT);   //right motors reverse
+pinMode(13,OUTPUT);   //right motors reverse
+pinMode(12,OUTPUT);   //right motors forward
+pinMode(11,OUTPUT);   //left motors reverse
+pinMode(10,OUTPUT);   //left motors forward
 pinMode(9,OUTPUT);   //Led
 Serial.begin(9600);
  
@@ -21,7 +21,7 @@ if(t == 'F'){            //move forward(all motors rotate in forward direction)
   digitalWrite(10,HIGH);
 }
  
-else if(t == 'G'){      //move reverse (all motors rotate in reverse direction)
+else if(t == 'B'){      //move reverse (all motors rotate in reverse direction)
   digitalWrite(13,HIGH); 
   digitalWrite(11,HIGH);
 }

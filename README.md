@@ -8,3 +8,5 @@ The code and the circuit diagram can be found in this repository.
 The pictures of the fully assembled car can be found under **Photos**
 
 A small timelapse video showing the progress from start to finish can be watched using this link: [Video](https://www.youtube.com/watch?v=5Ym_Qg22HTw&ab_channel=GeorgesElkassouf)
+
+The full project is also avaialble on [Hackster](https://www.hackster.io/388732/4wd-bluetooth-controlled-car-225437)
